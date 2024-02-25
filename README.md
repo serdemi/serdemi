@@ -28,13 +28,12 @@ For this project, I developed a Python-based task management system featuring us
 
 ## Connect with Me
 
-- [LinkedIn] linkedin.com/in/serghei-demian-82462a2a3![image](https://github.com/serdemi/serdemi/assets/157843930/c4f2548c-1c57-462f-9517-85bc6c4316cf)
-
+- [LinkedIn] https://www.linkedin.com/in/serghei-demian-82462a2a3/
 - [Portfolio] https://github.com/serdemi
 
 ## Let's Collaborate!
 
 I am actively seeking opportunities to collaborate on exciting software development projects. Feel free to reach out if you share a passion for tech and innovation!
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=serdemi&show_icons=true&hide_border=true)
 
